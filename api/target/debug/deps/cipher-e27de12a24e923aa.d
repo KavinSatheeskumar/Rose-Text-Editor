@@ -1,0 +1,11 @@
+/home/aidenfoxivey/Development/Rose-Text-Editor/api/target/debug/deps/cipher-e27de12a24e923aa.rmeta: /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/lib.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block/errors.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream/errors.rs
+
+/home/aidenfoxivey/Development/Rose-Text-Editor/api/target/debug/deps/libcipher-e27de12a24e923aa.rlib: /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/lib.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block/errors.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream/errors.rs
+
+/home/aidenfoxivey/Development/Rose-Text-Editor/api/target/debug/deps/cipher-e27de12a24e923aa.d: /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/lib.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block/errors.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream/errors.rs
+
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/lib.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/block/errors.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/cipher-0.2.5/src/stream/errors.rs:

@@ -1,17 +1,14 @@
-use web_view::*;
+#![feature(proc_macro_hygiene, decl_macro)]
+
+#[macro_use] extern crate rocket;
+extern crate rocket_contrib;
+
+use std::process;
+use std::env;
+use rocket_contrib::serve::StaticFiles;
 
 fn main() {
-    let html_content = "<html><body><h1>Hello World!</h1></body></html>";
-    
-    // long and ugly format, but builds well
-    web_view::builder
-        .title("Rose")
-        .content(Content::Html(html_content))
-        .size(320, 480)
-        .rezisable(true)
-        .debug(true)
-        .user_data(())
-        .invoke_handler(|_webview, _arg| Ok(()))
-        .run()
-        .unwrap();
+    rocket::ignite()
+        .mount("/", StaticFiles::from("../ui/dist/"))
+        .launch();
 }
