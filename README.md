@@ -4,20 +4,20 @@
 
 ### Windows
 #### Install Elm
-  Run the installer and add to path.
+  Run the installer and add to path.  
   [Elm Installer](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-windows.exe)
 
 #### Install Rust
-  Install MinGW for Windows. It's required to setup the Rust toolchain.
+  Install MinGW for Windows. It's required to setup the Rust toolchain.  
   [MinGW Installer](https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/)
 
-  Install Rust nightly version.
+  Install Rust nightly version.  
   [Rust Installer](https://static.rust-lang.org/dist/rust-nightly-x86_64-pc-windows-gnu.msi)
 
 
 ### Mac
 #### Install Elm
-  Install the .pkg and add to path.
+  Install the .pkg and add to path.  
   [Elm Pkg](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg)
 
 #### Install Rust
