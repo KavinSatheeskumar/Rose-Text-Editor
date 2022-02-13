@@ -32,3 +32,7 @@
 
   Note that if *the project fails to build*, you should be running `rustup update && cargo update` as Rocket   
   requires the latest version of Rust nightly and Rocket to be used.
+
+### Compiling the Project 
+
+  Compile the project using `make` at the top level directory and then run with `cargo run` in the api directory.
