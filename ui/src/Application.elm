@@ -1,9 +1,9 @@
 module Application exposing (main)
 
-import Html exposing (Html, Attribute, div, input, text)
+import Html exposing (Html, Attribute, button, div, input, text)
 import Browser
 import Html.Attributes exposing (..)
-import Html.Events exposing (onInput)
+import Html.Events exposing (onClick)
 
 main =
   Browser.sandbox { init = init, update = update, view = view }

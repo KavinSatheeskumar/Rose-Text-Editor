@@ -1,0 +1,11 @@
+/home/aidenfoxivey/Development/Rose-Text-Editor/api/target/debug/deps/tinyvec-dd8d7c5586d0a63f.rmeta: /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/lib.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array/generated_impl.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec_drain.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/slicevec.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/tinyvec.rs
+
+/home/aidenfoxivey/Development/Rose-Text-Editor/api/target/debug/deps/tinyvec-dd8d7c5586d0a63f.d: /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/lib.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array/generated_impl.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec_drain.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/slicevec.rs /home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/tinyvec.rs
+
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/lib.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/array/generated_impl.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/arrayvec_drain.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/slicevec.rs:
+/home/aidenfoxivey/.cargo/registry/src/github.com-1ecc6299db9ec823/tinyvec-1.5.1/src/tinyvec.rs:
