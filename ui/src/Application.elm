@@ -7,46 +7,78 @@ import Html exposing (Html, Attribute, button, div, input, text)
 import Browser
 import Html exposing (..)
 import Html.Attributes exposing (..)
-import Html.Events exposing (onClick)
+import Html.Events exposing (onInput)
+
+
 
 -- MAIN
+
 
 main =
   Browser.sandbox { init = init, update = update, view = view }
 
 
+
 -- MODEL
+
 
 type alias Model =
   { textbox : String
   }
+
 
 init : Model
 init =
   Model "" 
 
 
+
 -- UPDATE
 
+
 type Msg
-  = Textbox String
+  = TextBox String
+ 
 
 update : Msg -> Model -> Model
 update msg model =
   case msg of
-    Textbox textbox ->
-      { model | textbox = textbox}
+    TextBox textbox ->
+      { model | textbox = textbox }
+
 
 
 -- VIEW
-
-
-view : Model -> Html Msg
-view model =
-  div []
-      [ viewInput "text" "Type Here" model.textbox Textbox
+formStyle : List (Attribute msg)
+formStyle =
+    [ style "border-radius" "5px"
+    , style "background-color" "#8350E7"
+    , style "padding" "20px"
+    , style "width" "400px"
     ]
 
+
+inputStyle : List (Attribute msg)
+inputStyle =
+    [ style "display" "block"
+    , style "width" "300px"
+    , style "padding" "12px 20px"
+    , style "margin" "8px 0"
+    , style "border" "none"
+    , style "border-radius" "4px"
+    ]
+
+view : Model -> Html msg
+view model =
+    div []
+        [ h1 [ style "padding-left" "3cm" ] [ text "Text Edit" ]
+        , Html.form formStyle
+            [ div []
+                [ text "This isn't right but its better"
+                , input ([ id "textbox", type_ "text" ] ++ inputStyle) []
+                ]
+              ]
+            ]
 
 viewInput : String -> String -> String -> (String -> msg) -> Html msg
 viewInput t p v toMsg =
